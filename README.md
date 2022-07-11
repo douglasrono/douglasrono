@@ -15,7 +15,8 @@
 <li> Machine Learning </li>
 <li> Cloud Computing </li>
 <li> Robotics </li>
-- 📫 How to reach me: ...
+- 📫 How to reach me:
+[REPO LINK](https://douglasrono.github.io)<br>
  [Twitter](https://twitter.com/itsdaglas)
  [Facebook](https://facebook.com/douglas.ronnie)
  [Website](https://douglasrono.github.io)
