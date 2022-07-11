@@ -1,16 +1,22 @@
 ### Hi there 👋
+## I'm Douglas Kiprono 😄
+<hr/>
+## <i> WEB DEVELOPER / Graphic Designer </i>
 
-<!--
-**douglasrono/douglasrono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+- 🔭 I’m Proficient in :
+<li> HTML </li>
+<li> CSS </li>
+<li> JAVASCRIPT </li>
+<li> BOOTSTRAP</li>
+<li> PHP</li>
+<li> MYSQL </li>
+<li> KOTLIN </li>
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+<li> Machine Learning </li>
+<li> Cloud Computing </li>
+<li> Robotics </li>
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  [Twitter](https://twitter.com/itsdaglas)
+-  [Facebook](https://facebook.com/douglas.ronnie)
+-  [Website](https://douglasrono.github.io)
+
