@@ -17,7 +17,7 @@
 <li> Cloud Computing </li>
 <li> Robotics </li>
 <p> 📫 How to reach me: </p>
- [Twitter](https://twitter.com/itsdaglas)
+ <a hre="https://twitter.com/itsdaglas">Twitter</a>
  [Facebook](https://facebook.com/douglas.ronnie)
  [Website](https://douglasrono.github.io)
 
