@@ -2,6 +2,7 @@
 ## I'm Douglas Kiprono 😄
 <hr/>
  <i> WEB DEVELOPER / Graphic Designer </i>
+ </hr>
 
 - 🔭 I’m Proficient in :
 <li> HTML </li>
@@ -15,7 +16,7 @@
 <li> Machine Learning </li>
 <li> Cloud Computing </li>
 <li> Robotics </li>
-📫 How to reach me:
+<p> 📫 How to reach me: </p>
  [Twitter](https://twitter.com/itsdaglas)
  [Facebook](https://facebook.com/douglas.ronnie)
  [Website](https://douglasrono.github.io)
