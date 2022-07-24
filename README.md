@@ -3,17 +3,14 @@
 <hr/>
  <i> WEB DEVELOPER / Graphic Designer </i>
  </hr>
-<h1> My profile stats </h1>
-<p>
-# [GitHub Stats Visualization](https://github.com/jasongaylord/github-stats) 
-  
- <a href="https://github.com/jasongaylord/github-stats"> 
-     
- [](https://github.com/douglasrono/github-stats/blob/master/generated/overview.svg) 
- [](https://github.com/douglasrono/github-stats/blob/master/generated/languages.svg) 
-  
- </a>
-</p>
+<h1> Skills and expertise </h1>
+✓ JavaScript<br>
+✓ Css 3<br>
+✓ html<br>
+✓ Node.js <br>
+✓ bootstrap <br>
+✓ PHP<br>
+✓ Laravel <br> 
 - 🌱 I’m currently learning ...
 <li> Machine Learning </li>
 <li> Cloud Computing </li>
