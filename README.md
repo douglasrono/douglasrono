@@ -4,7 +4,16 @@
  <i> WEB DEVELOPER / Graphic Designer </i>
  </hr>
 <h1> My profile stats </h1>
-https://github-readme-stats.vercel.app/api/top-langs/?username=douglasrono&langs_count=5&theme=tokyonight
+<p>
+# [GitHub Stats Visualization](https://github.com/jasongaylord/github-stats) 
+  
+ <a href="https://github.com/jasongaylord/github-stats"> 
+     
+ [](https://github.com/douglasrono/github-stats/blob/master/generated/overview.svg) 
+ [](https://github.com/douglasrono/github-stats/blob/master/generated/languages.svg) 
+  
+ </a>
+</p>
 - 🌱 I’m currently learning ...
 <li> Machine Learning </li>
 <li> Cloud Computing </li>
