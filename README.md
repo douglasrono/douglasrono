@@ -4,12 +4,7 @@
  <i> WEB DEVELOPER / Graphic Designer </i>
  </hr>
 <h1> My profile stats </h1>
-<a href="https://github.com/douglasrono/github-stats"> 
-     
- ![](https://github.com/douglasron/github-stats/blob/master/generated/overview.svg) 
- ![](https://github.com/douglasrono/github-stats/blob/master/generated/languages.svg) 
-  
- </a>
+https://github-readme-stats.vercel.app/api/top-langs/?username=douglasrono&langs_count=5&theme=tokyonight
 - 🌱 I’m currently learning ...
 <li> Machine Learning </li>
 <li> Cloud Computing </li>
