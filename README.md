@@ -3,15 +3,13 @@
 <hr/>
  <i> WEB DEVELOPER / Graphic Designer </i>
  </hr>
-
-- 🔭 I’m Proficient in :
-<li> HTML </li>
-<li> CSS </li>
-<li> JAVASCRIPT </li>
-<li> BOOTSTRAP</li>
-<li> PHP</li>
-<li> MYSQL </li>
-<li> KOTLIN </li>
+<h1> My profile stats </h1>
+<a href="https://github.com/douglasrono/github-stats"> 
+     
+ ![](https://github.com/douglasron/github-stats/blob/master/generated/overview.svg) 
+ ![](https://github.com/douglasrono/github-stats/blob/master/generated/languages.svg) 
+  
+ </a>
 - 🌱 I’m currently learning ...
 <li> Machine Learning </li>
 <li> Cloud Computing </li>
