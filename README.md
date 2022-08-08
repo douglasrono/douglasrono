@@ -20,7 +20,7 @@ and collaborate with like-minded devs.
 ✓ bootstrap <br>
 ✓ PHP<br>
 ✓ Laravel <br> 
-- 🌱 I’m currently learning ...
+- I’m currently learning 📚..
 <li> Machine Learning  </li>
 <li> Cloud Computing </li>
 <li> Robotics 🦾</li>
