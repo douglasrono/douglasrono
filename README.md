@@ -1,7 +1,7 @@
 ### Hi there 👋
-## I'm Douglas Kiprono 😄
+## I'm Douglas Kiprono 
 <hr/>
- <i> WEB DEVELOPER / Graphic Designer </i>
+ <h1> Web Developer specialised in javaScript and php scripting.</h1>
  </hr>
 <h1> Skills and expertise </h1>
 ✓ JavaScript<br>
