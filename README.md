@@ -2,7 +2,7 @@
 ### Web Developer.
 </hr>
 Hi there 👋. I'm <b>Douglas Kiprono</b>- a dedicated 
-Web engineer. I'm passionate with building impressive
+Web engineer. I'm passionate about building impressive
 things on the web. I'm here to showcase my talent
 and collaborate with like-minded devs.
 <h3> Featured projects 💡</h3>
