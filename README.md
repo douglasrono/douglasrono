@@ -11,7 +11,7 @@ and collaborate with like-minded devs.
  <li>speedometer🧭</li>
  <li> projectile simulator📉</li>
  
-<h1> Skills and expertise </h1>
+<h1> < Skills and expertise /> </h1>
 ✓ JavaScript<br>
 ✓python <br>
 ✓ Css 3<br>
