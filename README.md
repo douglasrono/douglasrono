@@ -25,3 +25,10 @@ and collaborate with like-minded devs.
 <li> Cloud Computing </li>
 <li> Robotics 🦾</li>
 
+If you have any questions or have offers, please reach me from following channels
+- douglasronno@gmail.com
+- [twitter](https://twitter.com/itsdaglas)
+- [Linkedin](https://linkedin.com/in/douglas-kiprono-ke)
+- [facebook](https://www.facebook.com/douglas.ronno)
+
+Copyright (c) 2022 Douglas Kiprono. All rights reserved.
