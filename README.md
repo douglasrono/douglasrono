@@ -1,10 +1,10 @@
 
 ### Web Developer.
-<a href="https://github.com/douglasrono/github-stats">
-<img src="https://github.com/douglasrono/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/douglasrono/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-<img src="https://github.com/douglasrono/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
-<img src="https://github.com/douglasrono/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
+<a href="https://github.com/jasongaylord/github-stats">
+   
+![](https://github.com/jasongaylord/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/jasongaylord/github-stats/blob/master/generated/languages.svg)
+
 </a>
 </hr>
 Hi there 👋. I'm <b>Douglas Kiprono</b>- a dedicated 
