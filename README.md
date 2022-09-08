@@ -11,8 +11,7 @@ and collaborate with like-minded devs.
  <li> Nodejs-raspberry pi server📱</li>
  <li>speedometer🧭</li>
  <li> projectile simulator📉</li>
- [ My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=douglasrono&count_private=true&theme=tokyonight&showicons=true)
-[My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=douglasrono&langs_count=5&theme=tokyonight)
+https://github-readme-stats.vercel.app/api/top-langs/?username=douglasrono&langs_count=5&theme=tokyonight
  
 <h1> Skills and expertise</h1>
 ✓ JavaScript<br>
