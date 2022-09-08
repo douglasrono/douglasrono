@@ -1,9 +1,9 @@
 
 ### Web Developer.
-<a href="https://github.com/jasongaylord/github-stats">
+<a href="https://github.com/douglasrono/github-stats">
    
-![](https://github.com/jasongaylord/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/jasongaylord/github-stats/blob/master/generated/languages.svg)
+![](https://github.com/douglasrono/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/douglasrono/github-stats/blob/master/generated/languages.svg)
 
 </a>
 </hr>
