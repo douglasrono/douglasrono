@@ -1,8 +1,8 @@
 
 <h2> DOUGLAS KIPRONO</h2>
-### eb developer</h3>
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=douglasrono&count_private=true&theme=tokyonight&showicons=true)]()
-</hr>
+##web developer</h3>
+(https://github-readme-stats.vercel.app/api/?username=douglasrono&count_private=true&theme=tokyonight&showicons=true)
+
 Hi there 👋. I'm <b>Douglas Kiprono</b>- a dedicated 
 Web engineer. I'm passionate about building impressive
 things on the web. I'm here to showcase my talent
