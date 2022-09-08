@@ -1,7 +1,4 @@
-
-<h2> DOUGLAS KIPRONO</h2>
-##web developer</h3>
-(https://github-readme-stats.vercel.app/api/?username=douglasrono&count_private=true&theme=tokyonight&showicons=true)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jasongaylord&count_private=true&theme=tokyonight&showicons=true)]()
 
 Hi there 👋. I'm <b>Douglas Kiprono</b>- a dedicated 
 Web engineer. I'm passionate about building impressive
