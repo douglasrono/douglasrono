@@ -5,8 +5,8 @@ Hi there 👋. I'm <b>Douglas Kiprono</b>- a dedicated
 Web engineer. I'm passionate about building impressive
 things on the web. I'm here to showcase my talent
 and collaborate with like-minded devs.
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=douglasrono&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=douglasrono&langs_count=5&theme=tokyonight)]()
+[My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=douglasrono&count_private=true&theme=tokyonight&showicons=true)
+[My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=douglasrono&langs_count=5&theme=tokyonight)
 <h3> Featured projects 💡</h3>
  <li>Self Driving car simulator 🚙</li>
  <li> Nodejs-raspberry pi server📱</li>
