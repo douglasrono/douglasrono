@@ -1,7 +1,7 @@
-<div style= "text-align:center">
+
 <h2> DOUGLAS KIPRONO</h2>
-<h5>web developer</h5>
- </div>
+<h3>web developer</h3>
+<hr>
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=douglasrono&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=douglasrono&langs_count=5&theme=tokyonight)]()
 
