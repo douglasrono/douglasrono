@@ -1,11 +1,6 @@
 
 ### Web Developer.
-<a href="https://github.com/douglasrono/github-stats">
-   
-![](https://github.com/douglasrono/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/douglasrono/github-stats/blob/master/generated/languages.svg)
 
-</a>
 </hr>
 Hi there 👋. I'm <b>Douglas Kiprono</b>- a dedicated 
 Web engineer. I'm passionate about building impressive
