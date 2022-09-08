@@ -1,5 +1,11 @@
 
 ### Web Developer.
+a href="https://github.com/jstrieb/github-stats">
+<img src="https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+<img src="https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
+<img src="https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
+</a>
 </hr>
 Hi there 👋. I'm <b>Douglas Kiprono</b>- a dedicated 
 Web engineer. I'm passionate about building impressive
@@ -11,8 +17,6 @@ and collaborate with like-minded devs.
  <li> Nodejs-raspberry pi server📱</li>
  <li>speedometer🧭</li>
  <li> projectile simulator📉</li>
-https://github-readme-stats.vercel.app/api/top-langs/?username=douglasrono&langs_count=5&theme=tokyonight
- 
 <h1> Skills and expertise</h1>
 ✓ JavaScript<br>
 ✓python <br>
