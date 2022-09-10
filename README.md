@@ -12,14 +12,16 @@ and collaborate with like-minded devs.
  <li>speedometer🧭</li>
  <li> projectile simulator📉</li>
 <h1> Skills and expertise</h1>
-✓ JavaScript<br>
-✓python <br>
-✓ Css 3<br>
-✓ html<br>
-✓ Node.js <br>
-✓ bootstrap <br>
-✓ PHP<br>
-✓ Laravel <br> 
+<ul>
+<li> JavaScript</li>
+<li>  React </li>
+<li>Mongodb</li>
+<li> mysql</li>
+<li> Node.js<li>
+<li>bootstrap</li>
+<li> PHP</li>
+<li> Git & GitHub</li>
+</ul>
 - I’m currently learning 📚..
 <li> Machine Learning  </li>
 <li> Cloud Computing </li>
