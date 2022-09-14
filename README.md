@@ -28,7 +28,7 @@ and collaborate with like-minded devs.
 <li> Machine Learning  </li>
 <li> Cloud Computing </li>
 <li> Robotics 🦾</li>
-
+<h4> Contact Me</h4>
 If you have any questions or have offers, please reach me from following channels
 - [Gmail](mailto:douglasronno@gmail.com)
 - [twitter](https://twitter.com/itsdaglas)
