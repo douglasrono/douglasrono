@@ -29,7 +29,7 @@ and collaborate with like-minded devs.
 <li> Cloud Computing </li>
 <li> Robotics 🦾</li>
 ## Contact Me
-<p>If you have any questions or have offers, please reach me from following channels </p>
+-If you have any questions or have offers, please reach me from following channels.
 - [Gmail](mailto:douglasronno@gmail.com)
 - [twitter](https://twitter.com/itsdaglas)
 - [Linkedin](https://linkedin.com/in/douglas-kiprono-ke)
