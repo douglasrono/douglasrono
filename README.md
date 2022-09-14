@@ -1,5 +1,6 @@
 <p>Hi there 👋. My name is <b>Douglas Kiprono</b>. I'm a passionate 
 Software Developer skilled in:
+</p>
 <ul>
 <li>Web design and development</li>
 <li>Software Testing</li>
@@ -7,15 +8,17 @@ Software Developer skilled in:
 <li>Linux / command line tooling and</li>
 <li>Graphic design </li>
 </ul>
+<p>
  I'm dedicated to building impressive
 things for the web. I'm here to help you in building your
 next impressive digital product. I'm also seeking collaboration with like-minded devs.
 </p>
 ## Profile stats
+-
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=douglasrono&count_private=true&theme=tokyonight&showicons=true)]()
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=douglasrono&langs_count=10&theme=tokyonight)]()
-
+-
 <h3> Featured projects 💡</h3>
  <li>Self Driving car simulator 🚙</li>
  <li> Nodejs-raspberry pi server📱</li>
