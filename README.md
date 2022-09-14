@@ -30,7 +30,7 @@ and collaborate with like-minded devs.
 <li> Robotics 🦾</li>
 
 If you have any questions or have offers, please reach me from following channels
-- [Gmail](mail to:douglasronno@gmail.com)
+- [Gmail](mailto:douglasronno@gmail.com)
 - [twitter](https://twitter.com/itsdaglas)
 - [Linkedin](https://linkedin.com/in/douglas-kiprono-ke)
 - [facebook](https://www.facebook.com/douglas.ronno)
