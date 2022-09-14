@@ -28,8 +28,8 @@ and collaborate with like-minded devs.
 <li> Machine Learning  </li>
 <li> Cloud Computing </li>
 <li> Robotics 🦾</li>
-<h4> Contact Me</h4>
-<p>If you have any questions or have offers, please reach me from following channels</p>
+## Contact Me
+<p>If you have any questions or have offers, please reach me from following channels </p>
 - [Gmail](mailto:douglasronno@gmail.com)
 - [twitter](https://twitter.com/itsdaglas)
 - [Linkedin](https://linkedin.com/in/douglas-kiprono-ke)
