@@ -13,10 +13,9 @@ Software Developer skilled in:
 things for the web. I'm here to help you in building your
 next impressive digital product. I'm also seeking collaboration with like-minded devs.
 </p>
-## Profile stats
+- ## Profile stats
 -
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=douglasrono&count_private=true&theme=tokyonight&showicons=true)]()
-
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=douglasrono&langs_count=10&theme=tokyonight)]()
 -
 <h3> Featured projects 💡</h3>
