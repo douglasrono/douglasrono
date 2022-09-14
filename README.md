@@ -15,16 +15,16 @@ and collaborate with like-minded devs.
  <li> projectile simulator📉</li>
 <h4>Skills and expertise</h4>
 <ul>
-<li> JavaScript</li>
-<li>  React </li>
+<li>JavaScript</li>
+<li>Reactjs</li>
 <li>Mongodb</li>
-<li> mysql</li>
-<li> Node.js<li>
+<li>mysql</li>
+<li>Node.js<li>
 <li>bootstrap</li>
-<li> PHP</li>
-<li> Git & GitHub</li>
+<li>PHP</li>
+<li>Git & GitHub</li>
 </ul>
-- I’m currently learning 📚..
+- Research 📚..
 <li> Machine Learning  </li>
 <li> Cloud Computing </li>
 <li> Robotics 🦾</li>
