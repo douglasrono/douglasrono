@@ -1,8 +1,16 @@
-Hi there 👋. I'm <b>Douglas Kiprono</b>- a dedicated 
-Web engineer. I'm passionate about building impressive
-things on the web. I'm here to showcase my talent
-and collaborate with like-minded devs.
-
+<p>Hi there 👋. My name is <b>Douglas Kiprono</b>. I'm a passionate 
+Software Developer skilled in:
+<ul>
+<li>Web design and development</li>
+<li>Software Testing</li>
+<li>Database administration </li>
+<li>Linux / command line tooling and</li>
+<li>Graphic design </li>
+</ul>
+ I'm dedicated to building impressive
+things for the web. I'm here to help you in building your
+next impressive digital product. I'm also seeking collaboration with like-minded devs.
+</p>
 ## Profile stats
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=douglasrono&count_private=true&theme=tokyonight&showicons=true)]()
 
@@ -19,7 +27,7 @@ and collaborate with like-minded devs.
 <li>Reactjs</li>
 <li>Mongodb</li>
 <li>mysql</li>
-<li>Node.js<li>
+<li>Nodejs</li>
 <li>bootstrap</li>
 <li>PHP</li>
 <li>Git & GitHub</li>
