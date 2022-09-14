@@ -13,7 +13,7 @@ and collaborate with like-minded devs.
  <li> Nodejs-raspberry pi server📱</li>
  <li>speedometer🧭</li>
  <li> projectile simulator📉</li>
-<h1> Skills and expertise</h1>
+## Skills and expertise
 <ul>
 <li> JavaScript</li>
 <li>  React </li>
