@@ -50,7 +50,7 @@ next impressive digital product. I'm also seeking collaboration with like-minded
 <li> Cloud Computing </li>
 <li> Robotics 🦾</li>
 
-If you have any questions or have offers, please reach me from following channels.
+<p>If you have any questions or have offers, please reach me from following channels.</p>
 - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:douglasronno@gmail.com)
 - [![Facebook](https://img.shields.io/badge/Twitter-%231877F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/itsdaglas)
 - [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/douglas-kiprono-ke)
