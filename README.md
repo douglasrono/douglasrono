@@ -52,8 +52,8 @@ next impressive digital product. I'm also seeking collaboration with like-minded
 
 If you have any questions or have offers, please reach me from following channels.
 - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:douglasronno@gmail.com)
-- [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://twitter.com/itsdaglas)
+- [![Facebook](https://img.shields.io/badge/Twitter-%231877F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/itsdaglas)
 - [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/douglas-kiprono-ke)
-- [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.facebook.com/douglas.ronno)
+- [![Twitter](https://img.shields.io/badge/Facebook-%231DA1F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/douglas.ronno)
 
 Copyright (c) 2022 Douglas Kiprono. All rights reserved.
