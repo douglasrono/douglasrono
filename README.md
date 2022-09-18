@@ -1,4 +1,4 @@
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+
 <p>Hi there 👋. My name is <b>Douglas Kiprono</b>. I'm a passionate 
 Software Developer skilled in:
 </p>
