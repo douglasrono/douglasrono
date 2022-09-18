@@ -51,7 +51,7 @@ next impressive digital product. I'm also seeking collaboration with like-minded
 <li> Robotics 🦾</li>
 
 If you have any questions or have offers, please reach me from following channels.
-- [Gmail](mailto:douglasronno@gmail.com)
+- [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](mailto:douglasronno@gmail.com)
 - [twitter](https://twitter.com/itsdaglas)
 - [Linkedin](https://linkedin.com/in/douglas-kiprono-ke)
 - [facebook](https://www.facebook.com/douglas.ronno)
