@@ -17,7 +17,7 @@ next impressive digital product. I'm also seeking collaboration with like-minded
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=douglasrono&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=douglasrono&langs_count=10&theme=tokyonight)]()
-[!Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 <h3> Featured projects 💡</h3>
  <li>Self Driving car simulator 🚙</li>
  <li> Nodejs-raspberry pi server📱</li>
@@ -30,7 +30,6 @@ next impressive digital product. I'm also seeking collaboration with like-minded
 <li>Mongodb</li>
 <li>mysql</li>
 <li>Nodejs</li>
- -![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)()
 <li>PHP</li>
 <li>Git & GitHub</li>
 </ul>
