@@ -25,6 +25,7 @@ next impressive digital product. I'm also seeking collaboration with like-minded
  <li>speedometer🧭</li>
  <li> projectile simulator📉</li>
 <h4>Skills and expertise</h4>
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 <ul>
 <li>JavaScript</li>
 <li>Reactjs</li>
