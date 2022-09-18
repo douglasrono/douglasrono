@@ -1,4 +1,4 @@
-
+## ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
 <p>Hi there 👋. My name is <b>Douglas Kiprono</b>. I'm a passionate 
 Software Developer skilled in:
 </p>
@@ -43,7 +43,8 @@ next impressive digital product. I'm also seeking collaboration with like-minded
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 - Research 📚..
 <li> Machine Learning  </li>
 <li> Cloud Computing </li>
