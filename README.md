@@ -44,15 +44,6 @@ next impressive digital product. I'm also seeking collaboration with like-minded
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
-<ul>
-<li>JavaScript</li>
-<li>Reactjs</li>
-<li>Mongodb</li>
-<li>mysql</li>
-<li>Nodejs</li>
-<li>PHP</li>
-<li>Git & GitHub</li>
-</ul>
 - Research 📚..
 <li> Machine Learning  </li>
 <li> Cloud Computing </li>
