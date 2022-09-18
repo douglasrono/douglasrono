@@ -30,7 +30,7 @@ next impressive digital product. I'm also seeking collaboration with like-minded
 <li>Mongodb</li>
 <li>mysql</li>
 <li>Nodejs</li>
-<li>bootstrap</li>
+<li> ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)</li>
 <li>PHP</li>
 <li>Git & GitHub</li>
 </ul>
