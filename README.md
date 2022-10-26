@@ -31,7 +31,6 @@ next impressive digital product. I'm also seeking collaboration with like-minded
 ![Laravel](https://img.shields.io/badge/laravel-%231572B6.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%23E34F26.svg?style=for-the-badge&logo=sql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
