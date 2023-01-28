@@ -3,11 +3,12 @@
 Software Developer skilled in:
 </p>
 <ul>
-<li>Web design and development</li>
+<li>Web development</li>
 <li>Software Testing</li>
 <li>Database administration </li>
 <li>Linux / command line tooling and</li>
-<li>Graphic design </li>
+<li>Cloud computing </li>
+ <li>Server Administration</li>
 </ul>
 
  I'm dedicated to building impressive
@@ -55,4 +56,4 @@ next impressive digital product. I'm also seeking collaboration with like-minded
 - [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/douglas-kiprono-ke)
 - [![Twitter](https://img.shields.io/badge/Facebook-%231DA1F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/douglas.ronno)
 
-Copyright (c) 2022 Douglas Kiprono. All rights reserved.
+Copyright (c) 2023 Douglas Kiprono. All rights reserved.
