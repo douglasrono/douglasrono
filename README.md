@@ -1,5 +1,5 @@
 ## ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-<p>Hi there 👋. My name is <b>Douglas Kiprono</b>. I'm a passionate 
+<p>Hi there 👋. My name is <b>Douglas Rono</b>. I'm a passionate 
 Software Developer skilled in:
 </p>
 <ul>
@@ -24,7 +24,7 @@ next impressive digital product. I'm also seeking collaboration with like-minded
 <h3> Featured projects 💡</h3>
  <li>Self Driving car simulator 🚙</li>
  <li> Nodejs-raspberry pi server📱</li>
- <li>speedometer🧭</li>
+ <li>CRM Dashboard🧭</li>
  <li> projectile simulator📉</li>
 
 ## Skills and expertise
