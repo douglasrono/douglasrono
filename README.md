@@ -26,6 +26,8 @@ next impressive digital product. I'm also seeking collaboration with like-minded
  <li> Nodejs-raspberry pi server📱</li>
  <li>CRM Dashboard🧭</li>
  <li> projectile simulator📉</li>
+ <li> Online Booking System📉</li>
+ <li> Warehouse Management System📉</li>
 
 ## Skills and expertise
 ![PHP](https://img.shields.io/badge/php-%2320232a.svg?style=for-the-badge&logo=php&logoColor=%2361DAFB)
@@ -56,4 +58,4 @@ next impressive digital product. I'm also seeking collaboration with like-minded
 - [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/douglas-kiprono-ke)
 - [![Twitter](https://img.shields.io/badge/Facebook-%231DA1F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/douglas.ronno)
 
-Copyright (c) 2023 Douglas Kiprono. All rights reserved.
+Copyright (c) 2023 Douglas Rono. All rights reserved.
