@@ -19,7 +19,7 @@ next impressive digital product. I'm also seeking collaboration with like-minded
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=douglasrono&count_private=true&theme=tokyonight&showicons=true)]()
 
-<br>  [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=douglasrono&langs_count=10&theme=tokyonight)]()
+<br>  [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=douglasrono&langs_count=15&theme=tokyonight)]()
 
 <h3> Featured projects 💡</h3>
  <li>Self Driving car simulator 🚙</li>
