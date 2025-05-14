@@ -91,13 +91,6 @@ As a **Software Engineer**, I:
 
 Whether you're building a **tech startup**, running a **growing business**, or looking for a **technical partner**, I’m here to help design, build, and scale your solution.
 
-- 📧 [douglasronno@gmail.com](mailto:douglasronno@gmail.com)  
-- 🐦 [Twitter / X](https://twitter.com/itsdaglas)  
-- 💼 [LinkedIn](https://linkedin.com/in/douglas-kiprono-ke)  
-- 📘 [Facebook](https://www.facebook.com/douglas.ronno)
-
----
-
 > *“Let's turn your idea into a secure, scalable, and high-performing system.”*  
 > — **Douglas Rono**, Architecting Solutions That Work
 
