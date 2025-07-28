@@ -35,13 +35,6 @@ const profile = {
       description: "Omnichannel contact center platform using WebRTC and SIP trunk integration.",
       status: "In Production"
     }
-  ],
-  contact: {
-    email: "info@telebora.com",
-    phone: "+254110666140",
-    website: "https://telebora.com",
-    github: "https://github.com/douglasrono",
-    linkedIn: "https://www.linkedin.com/in/douglasrono/"
-  }
+  ]
 };
 
